@@ -51,7 +51,7 @@ export const projects = [
  {
     title:" Streaming Site",
     description:"This Code repository is for the clone series tutorial. In this video, we show our take on a full Streaming Service app",
-    image:"/images/M.jpg",
+    image:"/images/M.JPG",
     tags:["React", "Design","Prototype"],
     source:"https://disneyplus-clone-f8077.web.app/ ",
     visit:" https://disneyplus-clone-f8077.web.app/",
@@ -60,11 +60,11 @@ export const projects = [
  {
     title:" Whatsapp Clone",
     description:"This Code repository is for the clone series tutorial. In this video, we create a full Realtime Whatsapp  clone ",
-    image:"/images/W.jpg",
+    image:"/images/W.JPG",
     tags:["ReactJS", "Development","Prototype"],
     source:"https://whatsapp-web-clone-c6268.firebaseapp.com/ ",
     visit:" https://whatsapp-web-clone-c6268.firebaseapp.com/",
-    id:4,
+    id:6,
   } 
 ];
 
