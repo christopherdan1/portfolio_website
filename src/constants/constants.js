@@ -1,5 +1,5 @@
 export const projects = [
-  {
+ /* {
     title: "MERN Memories",
     description:
       "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
@@ -39,7 +39,7 @@ export const projects = [
     visit: "https://google.com",
     id: 3,
   },
-  {
+  */{
     title:" Disney Clone",
     description:"This Code repository is for the clone series tutorial. In this video, we create a full Realtime Disney Plus clone ",
     image:"/images/D.jpg",
