@@ -4,8 +4,8 @@ export const projects = [
     description:"This is a prototype I was working after I heard that Honda was launch of 2017 Civic and 2018 Accord. The intent was to be a spec page that highlights the numerous new features coming to this years models.  ",
     image: "/images/C.png",
     tags: ["Figma", "JavaScript"],
-    source: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
-    visit: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
+    source: "https://www.figma.com/proto/Zy6HxL0aDVCxG4VOhGssmJ/An-Awesome-Portfolio?node-id=24%3A40&scaling=scale-down&page-id=15%3A2&starting-point-node-id=24%3A40&show-proto-sidebar=1",
+    visit: "https://www.figma.com/proto/Zy6HxL0aDVCxG4VOhGssmJ/An-Awesome-Portfolio?node-id=24%3A40&scaling=scale-down&page-id=15%3A2&starting-point-node-id=24%3A40&show-proto-sidebar=1",
     id: 1,
   },
   {
