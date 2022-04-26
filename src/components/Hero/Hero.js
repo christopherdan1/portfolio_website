@@ -21,7 +21,7 @@ const Hero = (props) => (
           The purpose of {site} is to showcase valuable design and development practices to assist with modern business problems.
           Let's take your project to the next level and build something awesome.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick="location.href='location.href='mailto:christopher@holdersolutions.us';">Learn More</Button>
       </LeftSection>
     </Section>
   </>
