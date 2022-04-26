@@ -1,7 +1,7 @@
 export const projects = [
     {
     title: "Honda Launch UI",
-    description:"This is a prototype I was working after I heard that Honda was launch of 2017 Civic and 2018 Accord. The intent was to be a spec page that highlights the numerous new features coming to this years models.  ",
+    description:"This is a prototype we worked on after the launch of the 2017 Civic and 2018 Accord. We focus on Transition & animations ",
     image: "/images/C.png",
     tags: ["Figma", "JavaScript"],
     source: "https://www.figma.com/proto/Zy6HxL0aDVCxG4VOhGssmJ/An-Awesome-Portfolio?node-id=24%3A40&scaling=scale-down&page-id=15%3A2&starting-point-node-id=24%3A40&show-proto-sidebar=1",
@@ -31,7 +31,7 @@ export const projects = [
   {
     title: "Kingdom Hearts UI",
     description:
-      "This is a code repository for the corresponding video tutorial. In this showcase, we will create Title Menu of Kingdom hearts with interactive menu animations",
+      "This is a code repository for the corresponding video tutorial. In this showcase, we created the Title Menu of Kingdom hearts and added an interactive menu",
     image: "/images/KH.png",
     tags: ["Figma", "Design", "Prototype"],
     source: "https://www.figma.com/proto/9ztLhEhCWzLA5cuQCBHaRi/Kingdom-Hearts-Menu?node-id=108%3A114&scaling=scale-down&page-id=101%3A2&starting-point-node-id=108%3A43",
