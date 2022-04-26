@@ -12,6 +12,7 @@ import {
   TitleContent,
   UtilityList,
   Img,
+  ImgWrap
 } from "./ProjectsStyles";
 import {
   Section,
@@ -28,8 +29,11 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
+          <ImgWrap>
             <Img src={p.image} />
-            <TitleContent>
+          </ImgWrap>  
+      
+              <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
             </TitleContent>
