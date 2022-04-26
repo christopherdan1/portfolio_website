@@ -7,7 +7,7 @@ export const projects = [
     tags: ["Figma", "SquareSpace", "UI"],
     source: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
     visit: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
-    id: 2,
+    id: 0,
   },
   {
     title: "Honda Launch UI",
@@ -26,7 +26,17 @@ export const projects = [
     tags: ["Figma", "UI"],
     source: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
     visit: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
-    id: 0,
+    id: 2,
+  },
+   {
+    title: "Landing Page - CPO ",
+    description:
+      "The new redesign, features a modern landing page that has clear navigation, a distinctive banner, and a call to action. ",
+    image: "/images/cpo after.png",
+    tags: ["Figma", "SquareSpace", "UI"],
+    source: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
+    visit: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
+    id: 3,
   },
   {
     title: "Kingdom Hearts UI",
@@ -36,7 +46,7 @@ export const projects = [
     tags: ["Figma", "Design", "Prototype"],
     source: "https://www.figma.com/proto/9ztLhEhCWzLA5cuQCBHaRi/Kingdom-Hearts-Menu?node-id=108%3A114&scaling=scale-down&page-id=101%3A2&starting-point-node-id=108%3A43",
     visit: "https://www.figma.com/proto/9ztLhEhCWzLA5cuQCBHaRi/Kingdom-Hearts-Menu?node-id=108%3A114&scaling=scale-down&page-id=101%3A2&starting-point-node-id=108%3A43",
-    id: 3,
+    id: 4,
   },
   {
     title:" Disney Clone",
@@ -45,8 +55,8 @@ export const projects = [
     tags:["ReactJS", "Front-End","Prototype"],
     source:"https://disneyplus-clone-f8077.web.app/ ",
     visit:" https://disneyplus-clone-f8077.web.app/",
-    id:4,
-  } ,
+    id:5,
+  },
  {
     title:" Whatsapp Clone",
     description:"This Code repository is for the clone series tutorial. In this video, we create a full Realtime Whatsapp  clone ",
@@ -54,7 +64,7 @@ export const projects = [
     tags:["ReactJS", "Development","Prototype"],
     source:"https://whatsapp-web-clone-c6268.firebaseapp.com/ ",
     visit:" https://whatsapp-web-clone-c6268.firebaseapp.com/",
-    id:5,
+    id:6,
   } 
 ];
 
