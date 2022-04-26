@@ -6,7 +6,7 @@ import {
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
-import { LeftSection } from "./HeroStyles";
+import { LeftSection, LinkedItem } from "./HeroStyles";
 
 let site = "HolderDesigns";
 const Hero = (props) => (
@@ -21,8 +21,10 @@ const Hero = (props) => (
           The purpose of {site} is to showcase valuable design and development practices to assist with modern business problems.
           Let's take your project to the next level and build something awesome.
         </SectionText>
+<LinkedItem>
         <Button onClick="location.href='location.href='mailto:christopher@holdersolutions.us';">Learn More</Button>
-      </LeftSection>
+</LinkedItem>     
+</LeftSection>
     </Section>
   </>
 );
