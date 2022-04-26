@@ -22,7 +22,7 @@ export const projects = [
     title: "Netflix Animation UI",
     description:
       "This is a code repository for the corresponding YouTube video. The User plays the movie/show, then they navigate to the menu, then theres a transition, then the video starts on page load.",
-    image: "/images/N.jpg",
+    image: "/images/N.png",
     tags: ["Figma", "UI"],
     source: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
     visit: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
@@ -48,22 +48,13 @@ export const projects = [
     id:4,
   } ,
  {
-    title:" Streaming Site",
-    description:"This Code repository is for the clone series tutorial. In this video, we show our take on a full Streaming Service app",
-    image:"/images/M.JPG",
-    tags:["React", "Design","Prototype"],
-    source:"https://disneyplus-clone-f8077.web.app/ ",
-    visit:" https://disneyplus-clone-f8077.web.app/",
-    id:5,
-  },
- {
     title:" Whatsapp Clone",
     description:"This Code repository is for the clone series tutorial. In this video, we create a full Realtime Whatsapp  clone ",
     image:"/images/W.JPG",
     tags:["ReactJS", "Development","Prototype"],
     source:"https://whatsapp-web-clone-c6268.firebaseapp.com/ ",
     visit:" https://whatsapp-web-clone-c6268.firebaseapp.com/",
-    id:6,
+    id:5,
   } 
 ];
 
