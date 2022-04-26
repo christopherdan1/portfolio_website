@@ -1,15 +1,5 @@
 export const projects = [
-  {
-    title: "Landing Page - CPO ",
-    description:
-      "The new redesign, features a modern landing page that has clear navigation, a distinctive banner, and a call to action. ",
-    image: "/images/cpo after.png",
-    tags: ["Figma", "SquareSpace", "UI"],
-    source: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
-    visit: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
-    id: 0,
-  },
-  {
+    {
     title: "Honda Launch UI",
     description:"This is a prototype I was working after I heard that Honda was launch of 2017 Civic and 2018 Accord. The intent was to be a spec page that highlights the numerous new features coming to this years models.  ",
     image: "/images/C.png",
@@ -71,7 +61,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
   { year: 2018, text: "Working as a Software Tester" },
-  { year: 2019, text: "Started Learning Frontend Development" },
+  { year: 2019, text: "Started Learning Full Stack Development" },
   { year: 2020, text: "Started HolderDesigns.dev" },
   { year: 2021, text: "Working as a freelance developer" },
 ];
