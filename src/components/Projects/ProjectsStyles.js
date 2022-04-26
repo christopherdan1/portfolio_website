@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const ImgWrap = styled.a`
+export const ImgWrap = styled.div`
 overflow:hidden;
 position:relative;
 &:hover Img{
