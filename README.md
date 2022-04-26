@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://holderdesigns.dev)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
@@ -10,3 +10,5 @@ In this video, we will create a full Personal Development Portfolio. We're going
 
 Setup:
 - run ```npm i && npm start```
+
+inspired From jsmastery.com
