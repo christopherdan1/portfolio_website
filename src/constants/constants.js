@@ -7,7 +7,7 @@ export const projects = [
     tags: ["Figma", "SquareSpace", "UI"],
     source: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
     visit: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
-    id: 0,
+    id: 2,
   },
   {
     title: "Honda Launch UI",
@@ -26,7 +26,7 @@ export const projects = [
     tags: ["Figma", "UI"],
     source: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
     visit: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
-    id: 2,
+    id: 0,
   },
   {
     title: "Kingdom Hearts UI",
