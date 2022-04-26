@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const ImgWrap = styled.div`
 overflow:hidden;
 position:relative;
-&hover Img{
+&:hover Img{
 transform:scale3d(1.1,1.1,1);
 }
 `
@@ -16,7 +16,7 @@ export const Img = styled.img`
   background-size:cover;
   background-position:50% 50%;
   transition: 1s cubic-bezier(0.2, 1, 0.8, 1);
-  &hover{
+  &:hover{
   transform:scale3d(1.1,1.1,1);
   }
 `
