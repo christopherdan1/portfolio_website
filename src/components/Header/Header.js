@@ -39,7 +39,7 @@ const Header = () =>  (
         <SocialIcons href="https://dribbble.com/christopherDan1">
           <AiFillDribbbleCircle size="3rem" />
         </SocialIcons>
-         <SocialIcons href="https://figma.com/chrish1">
+         <SocialIcons href="https://figma.com/@chrish1">
           <FaFigma size="3rem" />
         </SocialIcons>
       </Div3>
