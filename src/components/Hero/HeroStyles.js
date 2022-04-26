@@ -19,4 +19,5 @@ export const LeftSection = styled.div`
 `;
 
 export const LinkItem = styled.a`
+text-decoration:none;
 `
