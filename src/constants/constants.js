@@ -1,35 +1,34 @@
 export const projects = [
- /* {
-    title: "MERN Memories",
+  {
+    title: "Landing Page - CPO ",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "The new redesign, features a modern landing page that has clear navigation, a distinctive banner, and a call to action. ",
+    image: "/images/cpo after.png",
+    tags: ["Figma", "SquareSpace", "UI"],
+    source: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
+    visit: "https://www.figma.com/proto/kiJ74eTVOADi5o8I4QKGnD/ReDesigns?node-id=23%3A8750&scaling=scale-down-width&page-id=23%3A8749&starting-point-node-id=23%3A8750",
     id: 0,
   },
   {
-    title: "E-Commerce",
-    description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript"],
+    title: "Honda Launch UI",
+    description:"This is a prototype I was working after I heard that Honda was launch of 2017 Civic and 2018 Accord. The intent was to be a spec page that highlights the numerous new features coming to this years models.  ",
+    image: "/images/C.png",
+    tags: ["Figma", "JavaScript"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 1,
   },
   {
-    title: "WebRTC App",
+    title: "Netflix Animation UI",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "This is a code repository for the corresponding YouTube video. The User plays the movie/show, then they navigate to the menu, then theres a transition, then the video starts on page load.",
+    image: "/images/N.jpg",
+    tags: ["Figma", "UI"],
+    source: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
+    visit: "https://www.figma.com/proto/LIVfod9FI9I9O9kMUDbhe9/Netflix-New-Design?node-id=5%3A260&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A72",
     id: 2,
   },
-  */{
+  {
     title: "Kingdom Hearts UI",
     description:
       "This is a code repository for the corresponding video tutorial. In this showcase, we will create Title Menu of Kingdom hearts with interactive menu animations",
