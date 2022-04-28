@@ -1,6 +1,6 @@
 import Document, { Head, Html, Main, NextScript } from 'next/document'
 import { ServerStyleSheet } from 'styled-components'
-import Meta from './constants/Meta.js'
+import Meta from '../constants/Meta.js'
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -31,10 +31,7 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html lang='en-GB'>
-        <Head>
-          <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
-        <title>Holder Designs</title>
-        </Head>
+        <Meta/>
         <body>
           <Main />
           <NextScript />
