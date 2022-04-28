@@ -17,9 +17,9 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
      );
 }
  Meta.defaultProps = {
-     title: "AI writer",
-     keywords: "ai content writer, ai writer",
-     description: "latest AI writer",
-     ogTitle: "AI writer"
+     title: "Holder Designs",
+     keywords: " Holder Designs, web designer, UI designer, UX designer, junior web designer, front-end Developer, support website, product designer, webflow, squarespace",
+     description: "Holder Designs showcases valuable design and development practices to assist with modern business problems",
+     ogTitle: "Holder Designs"
  }
 export default Meta;
