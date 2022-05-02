@@ -31,7 +31,9 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html lang='en-GB'>
-        <Meta/>
+      <Head>
+      <script defer data-domain="holderdesigns.dev" src="https://plausible.io/js/plausible.js"></script>
+      </Head>
         <body>
           <Main />
           <NextScript />
