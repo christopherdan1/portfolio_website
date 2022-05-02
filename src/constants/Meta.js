@@ -13,6 +13,7 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
            <meta charSet="utf-8"></meta>
            <link rel="icon" href="/favicon.ico"></link>
            <title>{title}</title>
+           <script defer data-domain="holderdesigns.dev" src="https://plausible.io/js/plausible.js"></script>
        </Head>
      );
 }
