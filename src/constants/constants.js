@@ -1,4 +1,13 @@
 export const projects = [
+     {
+    title: "Joplin Logistics LLC",
+    description:"Moving Company ",
+    image: "/images/JM.png",
+    tags: ["Figma", "Design"],
+    source: "https://www.figma.com/proto/xSbi3ZDTKFddI4o11QkjlQ/Joplin-Logistics-LLC?node-id=2%3A2&scaling=scale-down&page-id=0%3A1",
+    visit: "https://www.figma.com/proto/xSbi3ZDTKFddI4o11QkjlQ/Joplin-Logistics-LLC?node-id=2%3A2&scaling=scale-down&page-id=0%3A1",
+    id: 0,
+  },
     {
     title: "Honda Launch UI",
     description:"This is a prototype we worked on after the launch of the 2017 Civic and 2018 Accord. We focus on Transition & animations ",
