@@ -8,15 +8,7 @@ export const projects = [
     visit: "https://www.figma.com/proto/xSbi3ZDTKFddI4o11QkjlQ/Joplin-Logistics-LLC?node-id=2%3A2&scaling=scale-down&page-id=0%3A1",
     id: 1,
   },
-    {
-    title: "Honda Launch UI",
-    description:"This is a prototype we worked on after the launch of the 2017 Civic and 2018 Accord. We focus on Transition & animations ",
-    image: "/images/C.png",
-    tags: ["Figma", "JavaScript"],
-    source: "https://www.figma.com/proto/Zy6HxL0aDVCxG4VOhGssmJ/An-Awesome-Portfolio?node-id=24%3A40&scaling=scale-down&page-id=15%3A2&starting-point-node-id=24%3A40&show-proto-sidebar=1",
-    visit: "https://www.figma.com/proto/Zy6HxL0aDVCxG4VOhGssmJ/An-Awesome-Portfolio?node-id=24%3A40&scaling=scale-down&page-id=15%3A2&starting-point-node-id=24%3A40&show-proto-sidebar=1",
-    id: 2,
-  },
+ 
   {
     title: "Netflix Animation UI",
     description:
